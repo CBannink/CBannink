@@ -1,3 +1,7 @@
+<a href="https://homescout.io">
+  <img src="./banner.png" alt="HomeScout — AI-powered rental search for Dublin" />
+</a>
+
 ### Hi, I'm Caspar 👋
 
 Senior full-stack engineer based in Dublin. I build AI-powered products that solve my own problems, and I run [Bannink Software Development](https://homescout.io) from Ireland.
@@ -16,7 +20,7 @@ Senior full-stack engineer based in Dublin. I build AI-powered products that sol
 
 Built for expats, students, professionals and anyone tired of refreshing Daft at 3am.
 
-👉 **[homescout.io](https://homescout.io)**
+👉 **[homescout.io](https://homescout.io)** · [HomeScout on LinkedIn](https://www.linkedin.com/company/homescout-io/about/)
 
 ---
 
@@ -41,7 +45,8 @@ If you're a founder who needs a senior engineer to turn a prototype into a real 
 ### 📫 Find me
 
 - 🌐 **[homescout.io](https://homescout.io)** — the product
-- 💼 **[linkedin.com/in/caspar-bannink](https://www.linkedin.com/in/caspar-bannink/)** — professional
+- 💼 **[LinkedIn — Caspar Bannink](https://www.linkedin.com/in/caspar-bannink-719440217/)** — personal
+- 🏢 **[LinkedIn — HomeScout](https://www.linkedin.com/company/homescout-io/about/)** — company
 - 📧 **caspar@homescout.io**
 
 ---
